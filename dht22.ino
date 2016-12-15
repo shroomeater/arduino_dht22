@@ -3,7 +3,7 @@
 
 #include <DHT_U.h>
 #include <DHT.h>
-#define DHTPIN A0     // what pin we're connected to
+#define DHTPIN A0     // what pin we're connected to. Conectada al pin A0 de la placa Groove
 
 // Uncomment whatever type you're using!
 //#define DHTTYPE DHT11   // DHT 11 
